@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/uk.co.disdroid.zxbas.feature_1.0.0.202604131153.jar" id="uk.co.disdroid.zxbas.feature" version="1.0.0.202604131153">
+   <feature url="features/uk.co.disdroid.zxbas.feature_1.0.0.202604131937.jar" id="uk.co.disdroid.zxbas.feature" version="1.0.0.202604131937">
       <category name="fark"/>
    </feature>
-   <feature url="features/uk.co.disdroid.fatk.feature_1.0.0.202604131153.jar" id="uk.co.disdroid.fatk.feature" version="1.0.0.202604131153">
+   <feature url="features/uk.co.disdroid.fatk.feature_1.0.0.202604131937.jar" id="uk.co.disdroid.fatk.feature" version="1.0.0.202604131937">
       <category name="fark"/>
    </feature>
-   <feature url="features/uk.co.disdroid.fatk.gen.feature_1.0.0.202604131153.jar" id="uk.co.disdroid.fatk.gen.feature" version="1.0.0.202604131153">
+   <feature url="features/uk.co.disdroid.fatk.gen.feature_1.0.0.202604131937.jar" id="uk.co.disdroid.fatk.gen.feature" version="1.0.0.202604131937">
       <category name="fark"/>
    </feature>
    <category-def name="fark" label="FATK Features"/>
