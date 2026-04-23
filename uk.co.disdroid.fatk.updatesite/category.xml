@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature id="uk.co.disdroid.fatk.feature.source" version="0.0.0">
+      <category name="main.source"/>
+   </feature>
+   <feature id="uk.co.disdroid.fatk.gen.feature">
+      <category name="main"/>
+   </feature>
+   <feature id="uk.co.disdroid.fatk.feature">
+      <category name="main"/>
+   </feature>
+   <feature id="uk.co.disdroid.zxbas.feature">
+      <category name="main"/>
+   </feature>
+   <category-def name="main" label="Adventure"/>
+   <category-def name="main.source" label="Adventure (Sources)"/>
+</site>
